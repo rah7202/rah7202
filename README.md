@@ -6,7 +6,7 @@ I'm Rahul, dedicated to building scalable web applications and exploring the int
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rahul-pidiyar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rpidiyar249@gmail.com) 
 
 ## 💻 Tech Stack:
-<img src="https://skill-icons.rpidiyar249.workers.dev/icons?i=react,nextjs,ts,js,tailwind,nodejs,express,unity,cs,supabase,vercel,git,github,vscode,vite,docker,aws,postman,figma,mongodb,mysql,postgres,graphql,cloudflare,nginx,linux&perline=13" />
+<img src="https://skill-icons.rpidiyar249.workers.dev/icons?i=cpp,html,js,ts,cloudflare,gcp,netlify,render,vercel,express,jwt,react,next,node,tailwindcss &perline=13" />
 
 
 ## 📊 GitHub Stats:
