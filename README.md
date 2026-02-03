@@ -1,5 +1,5 @@
 ## 💫 About Me:
-I'm Rahul, dedicated to building scalable web applications and exploring the intersection of AI and development. Currently, I'm honing my skills in modern frameworks and working on projects that solve real-world problems<br><br>🌱 Learning: React, Next.js, Advanced System Design<br><br>👯 Open to collaborate on: Full-stack projects using React, Node.js, and TypeScript<br><br>⚡ Fun fact: I love deep-diving into the "why" behind every line of code, from React routing to Prisma schemas<br>
+I’m Rahul, a developer focused on building scalable web apps and bridging the gap between AI and software engineering. I’m currently deep-diving into modern frameworks to build tools that tackle real-world challenges<br><br>🌱 Learning: React, Next.js, Advanced System Design<br><br>👯 Open to collaborate on: Full-stack projects using React, Node.js, and TypeScript<br><br>⚡ Fun fact: I love deep-diving into the "why" behind every line of code, from React routing to Prisma schemas<br>
 
 ## 💻 Tech Stack:
 <img src="https://skill-icons.rpidiyar249.workers.dev/icons?i=cpp,html,js,ts,nodejs,react,next,postman,npm,mysql,tailwindcss,cf,gcp,postgres,mongo,docker,prisma,git,github,jest,netlify,vercel,notion&perline=13" />
