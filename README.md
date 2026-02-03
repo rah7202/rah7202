@@ -1,5 +1,6 @@
 ## 💫 About Me:
-I’m Rahul, a developer focused on building scalable web apps and bridging the gap between AI and software engineering. I’m currently deep-diving into modern frameworks to build tools that tackle real-world challenges<br><br>
+I’m Rahul, a developer focused on building scalable web apps and bridging the gap between AI and software engineering. I’m currently deep-diving into modern frameworks to build tools that tackle real-world challenges<br><br>🌱 Learning: React, Next.js, Advanced System Design<br><br>👯 Open to collaborate on: Full-stack projects using React, Node.js, and TypeScript<br><br>⚡ Fun fact: I love deep-diving into the "why" behind every line of code, from React routing to Prisma schemas<br>
+I’m Rahul, a developer focused on building scalable web apps and brid
 
 
 ## 💻 Tech Stack:
