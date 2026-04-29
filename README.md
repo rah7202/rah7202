@@ -17,7 +17,8 @@ I’m Rahul, a developer focused on building scalable web apps and bridging the 
 
 <br>
 
-[Rahul's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rah7202&theme=github-compact)
+![Rahul's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rah7202&theme=github-compact)
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahul-pidiyar-101115284/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rpidiyar249@gmail.com) 
